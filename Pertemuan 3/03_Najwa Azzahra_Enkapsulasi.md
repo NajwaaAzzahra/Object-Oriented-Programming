@@ -129,7 +129,7 @@ public class MotorDemo {
 1.  Pada class TestMobil, saat kita menambah kecepatan untuk pertama kalinya, mengapa
     muncul peringatan “Kecepatan tidak bisa bertambah karena Mesin Off!”?
 
-        - Karena pada class Motor, atribut kontakOn dinyatakan false. Setelah itu, method tambahKecepatan() dipanggil sehingga mesin motor dinyatakan nyala.
+    - Karena pada class Motor, atribut kontakOn dinyatakan false. Setelah itu, method tambahKecepatan() dipanggil sehingga mesin motor dinyatakan nyala.
 
 2.  Mengapat atribut kecepatan dan kontakOn diset private?
 
@@ -619,6 +619,7 @@ Modifikasi soal no. 4 agar nominal yang dapat diangsur minimal adalah 10% dari j
 ```
 
 **Output**
+
 <img src="img/12.png">
 
 ## Percobaan 6
@@ -729,4 +730,5 @@ public class TestKoperasi {
 ```
 
 **Output**
+
 <img src="img/13.png">
