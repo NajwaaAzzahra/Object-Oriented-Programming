@@ -65,9 +65,13 @@ Kelas : TI-2C
     mhs1.tampilBiodata();
     - Ketika mhs1.tampilBiodata() dipanggil, program akan menjalankan kode yang ada di dalam metode "tampilBiodata()" yang terkait dengan objek mhs1
 12. Instansiasi 2 objek lagi pada program diatas!
+
     - Input
+
       <img src="img/7.png">
+
     - Output
+
       <img src="img/8.png">
 
 ## Percobaan 3
@@ -77,9 +81,11 @@ Kelas : TI-2C
 <img src="img/9.png">
 
 **Class TestBarang**
+
 <img src="img/10.png">
 
 **Output**
+
 <img src="img/11.png">
 
 7. Apakah fungsi argumen dalam suatu method?
