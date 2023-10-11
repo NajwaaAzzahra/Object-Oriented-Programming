@@ -244,4 +244,4 @@ harus di-encapsulate dan mengapa.
 
    **Jawab**
 
-<img src="1.png">
+<img src="PBL/1.png">
