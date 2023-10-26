@@ -2,7 +2,6 @@ public class Buku {
     private String ISBN;
     private String judul;
     private Penulis penulis;
-    private Penulis alamat;
 
     private int harga;
     
@@ -28,14 +27,6 @@ public class Buku {
 
     public Penulis getPenulis() {
         return penulis;
-    }
-
-    public void setAlamat (Penulis alamat) {
-        this.alamat = alamat;
-    }
-
-    public Penulis getAlamat() {
-        return alamat;
     }
 
     public void setHarga (int harga) {
